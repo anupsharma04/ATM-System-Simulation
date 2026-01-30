@@ -23,6 +23,6 @@ I am a Computer Science student currently refining my software engineering skill
 Please feel free to:
 * **Open an Issue** if you spot a bug.
 * **Submit a Pull Request** with your suggested improvements.
-* **Reach out directly** on [LinkedIn]([https://www.linkedin.com/in/anup-sharma-cs](https://www.linkedin.com/in/anup-sharma04/)) for a technical chat!
+* **Reach out directly** on [LinkedIn](https://www.linkedin.com/in/anup-sharma04/) for a technical chat!
 ---
 *Created by Anup Sharma - Aspiring Software Engineer*
